@@ -9,8 +9,8 @@
 
 main:
 
-  - title: "Home"
-    url: /home/
+  - title: "Research"
+    url: /research/
     
   - title: "CV"
     url: /files/Ranaa_Mahveen_CV.pdf
